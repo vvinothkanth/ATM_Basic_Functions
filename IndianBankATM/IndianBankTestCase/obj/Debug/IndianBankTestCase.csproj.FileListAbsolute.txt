@@ -1,0 +1,7 @@
+E:\vinothkanth\Assesment\IndianBank\IndianBankTestCase\bin\Debug\IndianBankTestCase.dll
+E:\vinothkanth\Assesment\IndianBank\IndianBankTestCase\bin\Debug\IndianBankTestCase.pdb
+E:\vinothkanth\Assesment\IndianBank\IndianBankTestCase\bin\Debug\IndianBank.exe
+E:\vinothkanth\Assesment\IndianBank\IndianBankTestCase\bin\Debug\IndianBank.pdb
+E:\vinothkanth\Assesment\IndianBank\IndianBankTestCase\obj\Debug\IndianBankTestCase.csprojResolveAssemblyReference.cache
+E:\vinothkanth\Assesment\IndianBank\IndianBankTestCase\obj\Debug\IndianBankTestCase.dll
+E:\vinothkanth\Assesment\IndianBank\IndianBankTestCase\obj\Debug\IndianBankTestCase.pdb
